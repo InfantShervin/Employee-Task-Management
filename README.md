@@ -57,3 +57,8 @@ Employee Users have limited permission to various features of the system. They c
   - Clock In/Time In
   - Clock Out/Time Out
 - **Logout**
+
+
+![Screenshot 2025-02-17 223744](https://github.com/user-attachments/assets/a389fb69-ef89-4d86
+![Screenshot 2025-02-17 223901](https://github.com/user-attachments/assets/1111eb55-e6be-48b6-8e7d-cbd46172ea7a)
+-90c5-c390b221d296)
