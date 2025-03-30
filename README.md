@@ -1,4 +1,4 @@
-# Task Management System with Attendance Management
+# Employee Task Management System 
 
 The Task Management System with Attendance Management Project can be accessed by 2 different roles: **Admin** and **Employee**. 
 
